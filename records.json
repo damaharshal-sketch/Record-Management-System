@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "harshal dama",
+        "age": 21,
+        "course": "mca",
+        "email": "harshaldama@gmail.com",
+        "phone": "6155355288"
+    },
+    {
+        "id": 2,
+        "name": "Akshar Rajghor",
+        "age": 20,
+        "course": "mbbs",
+        "email": "aksharrajghor05@gmail.com",
+        "phone": "9612534621"
+    },
+    {
+        "id": 3,
+        "name": "krishna Singh",
+        "age": 24,
+        "course": "mba",
+        "email": "krishnayadav@gmail.com",
+        "phone": "2314587329"
+    }
+]
