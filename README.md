@@ -125,4 +125,4 @@ The application automatically creates `data/records.json` on first run if it doe
 
 ## Author
 
-`<Your Name>` — MCA Semester I
+`Harshal Dama` — MCA Semester I
